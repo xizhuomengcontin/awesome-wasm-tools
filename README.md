@@ -101,6 +101,7 @@ A collection of useful, language-agnostic WebAssembly development tools.
 
 
 ## Component Model and WIT
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 - **jco** | [docs](https://bytecodealliance.github.io/jco/), [repo](https://github.com/bytecodealliance/jco)  
   JavaScript-native toolchain for working with WebAssembly Components, including transpiling components to ES modules and creating components from JavaScript.
